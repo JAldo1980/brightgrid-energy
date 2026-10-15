@@ -9,13 +9,16 @@ export default function Navbar() {
         </div>
         <nav className="hidden md:flex items-center space-x-8 text-sm font-medium text-[#172A23]">
           <a href="#problem" className="hover:text-[#16845B] transition">
-            The Problem
+            Why Solar
           </a>
           <a href="#solution" className="hover:text-[#16845B] transition">
-            Solutions
+            Our Process
           </a>
           <a href="#assessment" className="hover:text-[#16845B] transition">
-            Assessment
+            Case Studies
+          </a>
+          <a href="#calculator" className="hover:text-[#16845B] transition">
+            Savings Calculator
           </a>
         </nav>
         <div>
