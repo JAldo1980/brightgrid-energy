@@ -1,5 +1,5 @@
-function Problem() {
-  return <p>test!</p>;
+function Header() {
+  return <header class="grid-cols-3"></header>;
 }
 
-export default Problem;
+export default Header;
